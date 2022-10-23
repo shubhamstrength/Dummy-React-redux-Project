@@ -1,0 +1,17 @@
+.main-page{
+    margin-top: 5%;
+    margin: 10rem 2rem 2rem 4rem;
+}
+
+.graph-overview{
+    display: flex;
+    gap: 100px;
+}
+
+.graph-overview span{
+    font-weight: 600;
+}
+
+.recharts-wrapper{
+    padding-top: 2rem;
+}
